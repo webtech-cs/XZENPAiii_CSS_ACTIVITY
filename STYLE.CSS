@@ -1,0 +1,29 @@
+*{
+    font-size: 20px;
+    padding: 7;
+    margin: 3;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+ }
+
+header {
+    padding: 15px;
+    background-color: #fff00d;
+    color: #FE3838;
+}
+
+nav {
+    margin-top: 15px;
+}
+
+a {
+    text-decoration: none;
+    background-color: #FE3838;
+    color: #000000;
+    padding: 20px;
+    border-radius: 0px 0px 10px 10px;
+}
+a:hover {
+    background-color: #FE7B7D;
+    color: #FFFFFF;
+}
